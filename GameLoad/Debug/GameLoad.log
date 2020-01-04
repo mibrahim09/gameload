@@ -1,5 +1,0 @@
-﻿  GameLoad.cpp
-d:\co stuff\gameloadinfo\gameload\gameload\gameload.cpp(21): warning C4244: '=': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
-d:\co stuff\gameloadinfo\gameload\gameload\gameload.cpp(49): warning C4244: '=': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
-  GameLoad.vcxproj -> D:\CO Stuff\GameLoadInfo\GameLoad\Debug\GameLoad.exe
-  GameLoad.vcxproj -> D:\CO Stuff\GameLoadInfo\GameLoad\Debug\GameLoad.pdb (Full PDB)
